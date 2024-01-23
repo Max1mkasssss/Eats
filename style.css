@@ -66,3 +66,51 @@ a:not(:hover){
 
 
 /* Section-1  */
+.section-1{ 
+    background-image: url(/img/backrgound-section-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#first{ 
+    margin-top: 80px;
+    color: #F6F6F6;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; 
+    letter-spacing: 0.1px;
+}
+h1{ 
+    margin-top: 10px;
+    color: #FFF;
+    text-align: center;
+    font-family: Poppins;
+    font-size: 58px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 80px; /* 137.931% */
+    letter-spacing: 0.2px;
+}
+#second{ 
+    margin-top: 15px;
+    color: #F6F6F6;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 38px; /* 158.333% */
+    letter-spacing: 0.2px;
+}
+.section-1-buttons{ 
+    margin-top: 94px;
+    color: var(--white);
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 36px; /* 150% */
+    letter-spacing: 0.1px;
+}
